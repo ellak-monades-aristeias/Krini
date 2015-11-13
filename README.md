@@ -20,3 +20,7 @@ Manual for designers- https://github.com/ellak-monades-aristeias/Krini/blob/mast
 Lisence - 	https://github.com/ellak-monades-aristeias/Krini/blob/master/lisence
 
 Readme - 	https://github.com/ellak-monades-aristeias/Krini/blob/master/README.md
+
+
+
+
