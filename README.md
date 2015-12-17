@@ -5,9 +5,9 @@ Krini |  A drinking fountain for free water in public spaces
   
 Ομάδα Σχεδιασμού | Design group:
   
-Σάββας Κακαλής (φοιτ. Αρχιτεκτόνων Mηχ. Παν.Πατρών)|
+Σάββας Κακαλής (φοιτ. Αρχιτεκτόνων Mηχ. Παν.Πατρών) |
 Savvas Kakalis (undergr. stud._ Patras School of Architecture)
-Φωτεινή Καλλικούνη (φοιτ. Αρχιτεκτόνων Μηχ. Παν.Πατρών)|
+Φωτεινή Καλλικούνη (φοιτ. Αρχιτεκτόνων Μηχ. Παν.Πατρών) |
 Fotini Kallikouni (undergr. stud._ Patras School of Architecture)
   
 # Πρόθεση
