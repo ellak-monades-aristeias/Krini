@@ -32,7 +32,7 @@ The fountain used to be an important element - a landmark in the core of Greek r
 
 photos -	https://github.com/ellak-monades-aristeias/Krini/tree/master/photos
 
-plans	- https://github.com/ellak-monades-aristeias/Krini/tree/master/plans
+plans	- [https://github.com/ellak-monades-aristeias/Krini/tree/master/plans](https://github.com/ellak-monades-aristeias/Krini/tree/master/%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%B1_plans)
 
 Ταυτότητα έργου - 	https://github.com/ellak-monades-aristeias/Krini/tree/master/ταυτότητα%20έργου
 
