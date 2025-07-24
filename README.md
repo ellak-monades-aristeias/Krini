@@ -34,7 +34,7 @@ photos -	https://github.com/ellak-monades-aristeias/Krini/tree/master/photos
 
 plans	- [https://github.com/ellak-monades-aristeias/Krini/tree/master/plans](https://github.com/ellak-monades-aristeias/Krini/tree/master/%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%B1_plans)
 
-Ταυτότητα έργου - 	https://github.com/ellak-monades-aristeias/Krini/tree/master/ταυτότητα%20έργου
+Ταυτότητα έργου - 	[https://github.com/ellak-monades-aristeias/Krini/tree/master/ταυτότητα%20έργου](https://github.com/ellak-monades-aristeias/Krini/tree/master/%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%20%CE%AD%CF%81%CE%B3%CE%BF%CF%85_id)
 
 Instructions for users -  	https://github.com/ellak-monades-aristeias/Krini/blob/master/instractions%20for%20users.jpg
 
