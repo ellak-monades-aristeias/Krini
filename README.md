@@ -36,7 +36,7 @@ plans	- [https://github.com/ellak-monades-aristeias/Krini/tree/master/plans](htt
 
 Ταυτότητα έργου - 	[https://github.com/ellak-monades-aristeias/Krini/tree/master/ταυτότητα%20έργου](https://github.com/ellak-monades-aristeias/Krini/tree/master/%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%20%CE%AD%CF%81%CE%B3%CE%BF%CF%85_id)
 
-Instructions for users -  	[[https://github.com/ellak-monades-aristeias/Krini/blob/master/instractions%20for%20users.jpg](https://github.com/ellak-monades-aristeias/Krini/blob/master/manual%20for%20designers%2C%20developers.pdf)](https://github.com/ellak-monades-aristeias/Krini/blob/master/A0_low.jpg)
+Instructions for users -  https://github.com/ellak-monades-aristeias/Krini/blob/master/A0_low.jpg
 
 Manual for designers- https://github.com/ellak-monades-aristeias/Krini/blob/master/manual%20for%20designers%2C%20developers.pdf
 
